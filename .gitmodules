@@ -1,0 +1,9 @@
+[submodule "vhdl"]
+	path = vhdl
+	url = git@github.com:lundal/carp-vhdl.git
+[submodule "api"]
+	path = api
+	url = git@github.com:lundal/carp-api.git
+[submodule "report"]
+	path = report
+	url = git@github.com:lundal/carp-report.git
