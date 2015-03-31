@@ -5,4 +5,4 @@ It consists of a configurable cellular automata along with dedicated development
 
 #### Setup
 1. Run git submodule init
-2. Run git submodule update
+2. Run git submodule update --remote
